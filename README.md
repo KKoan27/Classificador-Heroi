@@ -1,2 +1,2 @@
-# Classificador-Her-i
+# Classificador-Heroi
 desafio feita pela Dio em meu curso
